@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  },
+  "name": "little-owl",
+  "description": "a discord bot",
+  "version": "23.2.7",
+  "main": "src/Launcher.js",
+  "devDependencies": {},
+  "scripts": {
+    "serve": "nodemon Launcher.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github-owl/Little-Owl.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "owl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github-owl/Little-Owl/issues"
+  },
+  "homepage": "https://github.com/github-owl/Little-Owl#readme"
+}
